@@ -1,0 +1,5 @@
+const String kSupabaseUrl = 'https://achknlbqtbcbbnusppsn.supabase.co';
+const String kSupabaseAnonKey =
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFjaGtubGJxdGJjYmJudXNwcHNuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA4MzE0NDMsImV4cCI6MjA3NjQwNzQ0M30.D3qa1tXXHrrpqCqvM54BbMn4l0RwN5DTnKdRYZvCSZc';
+const String kSupabaseKey =
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFjaGtubGJxdGJjYmJudXNwcHNuIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2MDgzMTQ0MywiZXhwIjoyMDc2NDA3NDQzfQ.aTXbBctVcY-tB9WWyUCVoQAEk-bWs5lRtYycwKqkpQU';
